@@ -1,5 +1,5 @@
 # Rosemary-framework-
-Little tool to create c++ console game easier.
+Little tool to create c++ console games easier.
 
 Rosemary framework
     Copyright (C) 2020  Created by Jaime Arturo Sánchez Fernández
