@@ -1,5 +1,6 @@
 # Rosemary-framework-
-Little tool to create c++ console games easier.
+Small tool to create c++ console games easier.
+download: https://deadprocess.itch.io/rosemary-framework
 
 Rosemary framework
     Copyright (C) 2020  Created by Jaime Arturo Sánchez Fernández
@@ -13,3 +14,4 @@ Rosemary framework
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
+
